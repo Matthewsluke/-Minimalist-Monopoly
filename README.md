@@ -1,2 +1,2 @@
 # -Minimalist-Monopoly
-A project repository designed to assist focus and minimise distraction 
+A project repository designed to assist focus and minimise distraction. 
